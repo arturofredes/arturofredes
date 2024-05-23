@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data Science at Universitat de Barcelona
 - 📫 How to reach me https://www.linkedin.com/in/afredesc/
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I was once bitten by a venomous spider 🤘🕸️
 
 <!---
 arturofredes/arturofredes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
