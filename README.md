@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Arturo Fredes
 ### Physicist · Mathematician · ML Engineer · Researcher
 
-[![Website](https://img.shields.io/badge/website-arturofredes.dev-blue?style=flat&logo=googlechrome&logoColor=white)]([arturofredes](https://arturofredes.github.io/))
+[![Website](https://img.shields.io/badge/website-arturofredes-blue?style=flat&logo=googlechrome&logoColor=white)]([arturofredes](https://arturofredes.github.io/))
 [![GitHub](https://img.shields.io/badge/GitHub-arturofredes-181717?style=flat&logo=github)](https://github.com/arturofredes)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-afredesc-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/afredesc/)
 [![Google Scholar](https://img.shields.io/badge/Scholar-fWnS--JUAAAAJ-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=fWnS-JUAAAAJ)
